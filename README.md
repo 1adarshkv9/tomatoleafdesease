@@ -66,7 +66,7 @@ The notebook includes:
 ## Example Output
 | Input Image         | Predicted Class           |
 |---------------------|---------------------------|
-| ![Input Image](example.jpg) | `Tomato___Bacterial_spot` |
+| ![](https://github.com/1adarshkv9/tomatoleafdisease/blob/main/download.png) | `Tomato___Bacterial_spot` |
 
 ---
 
